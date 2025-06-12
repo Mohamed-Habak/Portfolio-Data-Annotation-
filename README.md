@@ -1,8 +1,7 @@
 # Data Annotation Specialist
 
 ## Professional Summary
-I'm a Biomedical Engineering graduate with a strong foundation in medical technology, electronics, anatomy, and informatics. Recently transitioned into AI-focused work through self-driven projects in data annotation. Hands-on experience with text, image, and OCR annotation using Label Studio. Fast
-learner with an analytical mindset, seeking remote AI annotation roles to apply and grow my technical knowledge.
+I'm a Biomedical Engineering graduate with a strong foundation in medical technology, electronics, anatomy, and informatics. Recently transitioned into AI-focused work through self-driven projects in data annotation. Hands-on experience with text, image, and OCR annotation using Label Studio. Fast learner with an analytical mindset, seeking remote AI annotation roles to apply and grow my technical knowledge.
 
 ## Education	 			        		
 - B.S., Biomedical Engineering | University of Saad Dahlab (2025)
